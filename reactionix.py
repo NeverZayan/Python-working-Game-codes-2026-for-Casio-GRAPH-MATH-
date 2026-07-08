@@ -106,7 +106,7 @@ def run_game(infinite=False):
         if infinite:
             sp=2+score//40
         else:
-            sp=BASE_SP[di]+score//50
+            sp=BASE_SP[di]+score//100
         lpos=SLX; ldir=1
         draw_slider(zones)
         draw_hdr(score,lives,hiscr,infinite)
