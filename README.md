@@ -29,6 +29,6 @@ SHIFT + EXE- infinite mode,
 0- end infinite mode,
 5- toggle line color,
 OK- stop line,
-SECRET, SHIFT + 5 -rainbow line,   
+SECRET: SHIFT + 5 -rainbow line,   
 
 THANKS FOR PLAYING :D
