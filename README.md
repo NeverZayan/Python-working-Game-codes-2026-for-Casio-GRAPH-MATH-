@@ -15,20 +15,31 @@ To use and import these into your calculator (Graph math+, but i belive also fun
 # control list:
 Although controls will be indicated in grey on the menu, for the visually impaired and curious ive listed out the controls and keybinds, aswell as the secrets...
 # FOR SNAKE:
-EXE-start,
+EXE-start
 
-0-walls on or off,
-4- switch left in mode switcher,
-6- switch right in mode switcher,
-8- increase grid size,
-2- decrease grid size,
-OK- toggle snake colors,
-USE ARROWS TO CONTROL SNAKE,
-SECRET: SHIFT + OK - rainbow snake,
+0-walls on or off
+
+4- switch left in mode switcher
+
+6- switch right in mode switcher
+
+8- increase grid size
+
+2- decrease grid size
+
+OK- toggle snake colors
+
+USE ARROWS TO CONTROL SNAKE
+
+SECRET: SHIFT + OK - rainbow snake
+
 # FOR FLAPPY BIRD:
-4- switch left in mode switcher,
-6- switch right in mode switcher,
-EXE - play,
+4- switch left in mode switcher
+
+6- switch right in mode switcher
+
+EXE - play
+
 7- toggle bird colors, default yellow,
 9- toggle pipe colors, default green,
 OK- jump, flaps the bird,
