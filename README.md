@@ -1,4 +1,4 @@
-# Python-working-Game-codes-2026-for-Casio-GRAPH-MATH-
+# Python-working-Game-codes-2026-for-Casio-GRAPH-MATH-and-Casio-fx-CG100
 It includes Flappy bird, a reaction game slider game and snake. each with levels difficulty and easy to understand instructions
 you can edit the code to change difficulties,
 for the flappy bird this is the default difficulty settings, you can tweak in the code: DIFFS=[(3,65,7,-70,90),(6,55,10,-70,80),(9,45,12,-70,70),(12,45,15,-70,70)], it goes (gravity,pipe spacing,other, jump height, other) for each difficulty, and controls are written on the screen
