@@ -51,14 +51,14 @@ def make_zones():
 def draw_slider(zones):
     fr(SLX,SLY,SLW,SLH,RD)
     for zx,zw,zc,_ in zones:
-        fr(zx,SLY+2,zw,SLH-4,zc)
+        fr(zx,SLY+0,zw,SLH-0,zc)
 
 def redraw_at(lx,zones):
     fr(lx,SLY,LW,SLH,RD)
     for zx,zw,zc,_ in zones:
         ix=max(lx,zx); ix2=min(lx+LW,zx+zw)
         if ix<ix2:
-            fr(ix,SLY+2,ix2-ix,SLH-4,zc)
+            fr(ix,SLY+0,ix2-ix,SLH-0,zc)
 
 def draw_hdr(score,lives,hiscr,inf):
     fr(0,0,SW,HDR,BK)
