@@ -19,38 +19,48 @@ EXE-start
 
 0-walls on or off
 
-4- switch left in mode switcher
+4- switch left in difficulty switcher
 
-6- switch right in mode switcher
+6- switch right in difficulty switcher
 
 8- increase grid size
 
 2- decrease grid size
 
-OK- toggle snake colors
+OK- toggle snake colors (default green)
 
 USE ARROWS TO CONTROL SNAKE
 
 SECRET: SHIFT + OK - rainbow snake
 
 # FOR FLAPPY BIRD:
-4- switch left in mode switcher
+4- switch left in difficulty switcher
 
-6- switch right in mode switcher
+6- switch right in difficulty switcher
 
 EXE - play
 
-7- toggle bird colors, default yellow,
-9- toggle pipe colors, default green,
-OK- jump, flaps the bird,
-# FOR REACTION GAME:
-4- switch left in mode switcher,
-6- switch right in mode switcher,
-EXE- play,
-SHIFT + EXE- infinite mode,
-0- end infinite mode,
-5- toggle line color,
-OK- stop line,
-SECRET: SHIFT + 5 -rainbow line,   
+7- toggle bird colors (default yellow)
 
-THANKS FOR PLAYING :D
+9- toggle pipe colors (default green)
+
+OK- jump, flaps the bird
+
+# FOR REACTION GAME:
+4- switch left in difficulty switcher
+
+6- switch right in difficulty switcher
+
+EXE- play
+
+SHIFT + EXE- infinite mode
+
+0- end infinite mode
+
+5- toggle line color (default black)
+
+OK- stop line
+
+SECRET: SHIFT + 5 -rainbow line 
+
+# THANKS FOR PLAYING :D
