@@ -1,5 +1,5 @@
 # Python-working-Game-codes-2026-for-Casio-GRAPH-MATH-and-Casio-fx-CG100
-It includes Flappy bird, a reaction game slider game and snake [NOTE: all codes are fully human made, but AI optimized to fit the 300 line limit for the calculator]. each with levels difficulty and easy to understand instructions
+It includes Flappy bird, a reaction game slider game and snake [NOTE: all codes are fully human made, but AI optimized to fit the 300 line limit for the calculator]. each with levels, difficulty and easy to understand instructions.
 you can edit the code to change difficulties,
 for the flappy bird this is the default difficulty settings, you can tweak in the code: DIFFS=[(3,65,7,-70,90),(6,55,10,-70,80),(9,45,12,-70,70),(12,45,15,-70,70)], it goes (gravity,pipe spacing,other, jump height, other) for each difficulty, and controls are written on the screen
 for snake it is simpler, its just the speeds for each difficulty: SP=[50000,10000,8000,5000] 50000 is easy mode (slowest) and 5000 is extreme mode (fastest), you can tweak for customized gameplay
